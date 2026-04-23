@@ -1,0 +1,9 @@
+# Ignore security certificates
+key.pem
+cert.pem
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+env/
